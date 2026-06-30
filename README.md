@@ -1,7 +1,7 @@
 # Hi, I'm Paul Gaddis 👋
 
 > "The only way to learn a new programming language is by writing programs in it."
-> — Dennis Ritchie :contentReference[oaicite:0]{index=0}
+> — Dennis Ritchie 
 
 ## About Me
 
